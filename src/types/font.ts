@@ -1,0 +1,1 @@
+export type FontSizeModeUnion = 'small' | 'normal'
